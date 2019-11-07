@@ -1,1 +1,2 @@
-# yoga-x260-hackintosh
+full clover efi hotpatch
+tested under mojave
